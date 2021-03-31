@@ -3,10 +3,6 @@ package com.thesoftdev.helperutils;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.util.Base64;
-import android.util.Log;
-
-import java.io.UnsupportedEncodingException;
 
 /**
  * Created by Waseem Arain on 3/31/2021.
